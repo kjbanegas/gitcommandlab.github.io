@@ -3,14 +3,14 @@
 <html>
     <head>
         <title>My Personal Introduction</title>
-        <style>
-            body{background-color: #152345;
+     <style>
+        body{background-color: #152345;
             }
-            h1{color: #7b9fe5;
+        h1{color: #7b9fe5;
             }
-            p{color: #f3eedc;
+        p{color: #f3eedc;
             }
-        </style>
+    </style>
     </head>
     <body>
         <h1>My name is Kevin Banegas Gamoneda</h1>
