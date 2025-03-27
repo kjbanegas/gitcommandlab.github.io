@@ -2,8 +2,7 @@
 <!DOCTYPE.html>
 <html>
     <head>
-        <title>My Personal Introduction
-        </title>
+        <title>My Personal Introduction</title>
         <style>
             body{background-color:343531;}
             h1{color:528A95;}
